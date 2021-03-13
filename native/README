@@ -1,0 +1,7 @@
+This is mlabbe's nativefiledialog with the following changes:
+
+- Added DECLSPEC for Windows
+- Windows version ported to C
+- Extra Linux binary to support both GTK and Zenity
+
+Git revision: 67345b80ebb429ecc2aeda94c478b3bcc5f7888e

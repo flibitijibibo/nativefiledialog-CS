@@ -1,0 +1,6 @@
+bin/
+native/libnfd.so
+native/libnfd_gtk.so
+native/libnfd_zenity.so
+native/libnfd.dylib
+native/nfd.dll
